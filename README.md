@@ -1,6 +1,6 @@
 # Rafael-Sales
 # Portifólio das palestras e atividades ACP
----
+
 **Palestra: Criatividade e Inovação: um desafio constante.**  
 Palestrante: Eduardo Von. (Itix)  
 08 de Abril de 2024.  
