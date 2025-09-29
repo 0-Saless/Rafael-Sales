@@ -88,3 +88,4 @@ Palestrante: Andrea Maria Fieri, Raissa Brito Miranda e Rafael Santos. (Itix)
 **Palestra: “Segurança de informação e Cibersegurança.”**  
 Palestrante: Guilherme Rodrigues Mattos.  
 3 de setembro  de 2025.  
+---
